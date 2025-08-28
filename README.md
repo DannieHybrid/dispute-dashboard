@@ -1,7 +1,5 @@
 📄 README.md
-markdown
-Copy
-Edit
+
 # 🧾 Dispute Dashboard
 
 A Hardhat-based smart contract project to manage and track dispute resolutions within a decentralized system.
